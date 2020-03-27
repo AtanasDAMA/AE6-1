@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Feed de Atanas Todorov</title>
+        <link>https://atanasdama.github.io/AE6-1/</link>
+        <description>El mejor feed de la AE-6.1</description>
+        <language>es-ES</language>
+
+        <item>
+            <title>El tiempo en Santa Cruz de Tenerife</title>
+            <link>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</link>
+            <description>El tiempo en Santa cruz de Tenerife para los proximos dias.</description>
+            <guid>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</guid>
+        </item>
+
+        <item>
+            <title>Un gato peligroso</title>
+            <link>https://atanasdama.github.io/AE6-1/html/articulo.html</link>
+            <description>Declaraciones ineditas sobre un gato.</description>
+            <guid>https://atanasdama.github.io/AE6-1/html/articulo.html</guid>
+        </item>
+        
+        <item>
+            <title>Pedro Sánchez reconoce que en sus discursos se limita a traducir lo que dice la intérprete de lengua de signos</title>
+            <link>https://www.elmundotoday.com/2020/03/pedro-sanchez-reconoce-que-en-sus-discursos-se-limita-a-traducir-lo-que-dice-la-interprete-del-lenguaje-de-signos/</link>
+            <description>Noticia totalmente real sobre Pedro Sánchez.</description>
+            <guid>https://www.elmundotoday.com/2020/03/pedro-sanchez-reconoce-que-en-sus-discursos-se-limita-a-traducir-lo-que-dice-la-interprete-del-lenguaje-de-signos/</guid>
+        </item>
+    </channel>
+</rss>

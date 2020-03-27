@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Feed de atanasdama.github.io/AE6-1</title>
+        <link>https://atanasdama.github.io/AE6-1/</link>
+        <description>El mejor feed de la AE-6.1</description>
+        <language>es-ES</language>
+        <item>
+            <title>Un gato peligroso</title>
+            <link>https://atanasdama.github.io/AE6-1/html/articulo.html</link>
+            <description>Declaraciones ineditas sobre un gato.</description>
+            <guid>https://atanasdama.github.io/AE6-1/html/articulo.html</guid>
+        </item>
+    </channel>
+</rss>

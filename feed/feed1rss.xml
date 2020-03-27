@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>El tiempo</title>
+        <link>https://www.tiempo.es</link>
+        <description>El tiempo en España.</description>
+        <language>es-ES</language>
+        <image>
+            <title>El tiempo</title>
+            <url>https://www.tiempo.es/img/logo/tiempoes.jpg</url>
+            <link>https://www.tiempo.es</link>
+            <width>90</width>
+            <height>36</height>
+        </image>
+        <item>
+            <title>El tiempo en Santa Cruz de Tenerife</title>
+            <link>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</link>
+            <description>El tiempo en Santa cruz de Tenerife para los proximos dias.</description>
+            <guid>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</guid>
+        </item>
+    </channel>
+</rss>

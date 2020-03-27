@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Web propia sobre un gato</title>
+        <link>https://atanasdama.github.io/AE6-1/articulo.html</link>
+        <description>Una web que tarde un minuto en hacer.</description>
+        <language>es-ES</language>
+        <image>
+            <title>Web propia sobre un gato</title>
+            <url>https://atanasdama.github.io/AE6-1/cat.jpg</url>
+            <link>https://atanasdama.github.io/AE6-1/articulo.html</link>
+            <width>90</width>
+            <height>36</height>
+        </image>
+    </channel>
+</rss>
